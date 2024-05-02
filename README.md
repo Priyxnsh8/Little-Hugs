@@ -1,7 +1,10 @@
-Introduction
+# Introduction
 This repository contains the source code for an E-Commerce website built using HTML and CSS. This README file serves as a guide to understand the project structure, functionalities, and how to run the website locally.
 
-Features
+
+
+# Features
+
 Homepage: Displays featured products, promotions, and navigation links.
 Product Listing: Organizes products into categories for easy browsing.
 Product Details: Provides detailed information about each product, including description, price, and availability.
@@ -9,7 +12,8 @@ Shopping Cart: Allows users to add products to their cart and proceed to checkou
 User Authentication: Provides login and registration functionality for users.
 Responsive Design: Ensures the website is optimized for various devices and screen sizes.
 
-Contributing
+# Contributing
+
 Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
 
 Fork the repository.
